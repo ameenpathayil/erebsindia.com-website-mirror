@@ -1,0 +1,13 @@
+body{
+    
+    
+}
+#tab-header{
+    background-color: rgb(119, 119, 235);
+    height: 20px;
+    display: block;
+    align-content: center;
+}
+#banner-image {
+    background-image: url('erebs bannrer.jpg');
+}
