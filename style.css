@@ -2,11 +2,23 @@
     margin: 0;
     padding: 0;
 }
-
-.banner-image{
-    min-height: 100vh;
+.header{
+    position: absolute;
     width: 100%;
+    padding: 200px;
+
+}
+.navbar-brand im{
+    height: 25%;
+    width: 25%;
+
+}
+
+.banner{
+    position: relative;
     background-image: url('img/bannrer.jpg');
-    background-position: center;
     background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 250px 0 200px;
 }
