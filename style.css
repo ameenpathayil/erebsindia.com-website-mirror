@@ -19,14 +19,15 @@ body{
     font-weight: 600;
     margin-left: 13px;
     padding: 10px 0 10px;
-    position: relative;
+}
+.topbar-container{
+    background-color: white;
 }
 .navbar-nav a{
     font-weight: bold;
     font-size: 15px;
     font-style: normal;
     text-decoration: none;
-    text-transform: none;
     padding-top: 35px;
     padding-bottom: 35px;
 }
@@ -35,7 +36,7 @@ body{
     
 }
 .navbar-nav a:hover{
-    color: rgb(39, 35, 35);
+    color: blue;
     
 }
 .navbar-nav a:active{
